@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harfely Leipary</h1>
 <h3 align="center">A passionate Web Dev. and Data from Maluku</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="" width="500" >
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="" width="400" align="rigth">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harfely&label=Profile%20views&color=0e75b6&style=flat" alt="harfely" /> </p>
 
