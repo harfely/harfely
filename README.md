@@ -9,10 +9,10 @@
 
 ## Education:
 
-#### 1. [Universitas Kristen Indonesia Maluku](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2020-Present`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+#### 1. [Universitas Kristen Indonesia Maluku](https://www.ugm.ac.id) | computer science student | Ambon `2020-Present`
+   - xxxx
+   - xxxx
+   - xxxx
  #### 2. [SMA N 1 Masohi](https://www.sman1kebumen.sch.id) | MIPA | Masohi `2017-2020`
    - Chief of Rohkris
 
