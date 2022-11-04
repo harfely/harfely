@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ookla.com/s/media/2021/12/video-testing-header-2.gif)](https://harfely.github.io/)
+<!-- [![MasterHead](https://www.ookla.com/s/media/2021/12/video-testing-header-2.gif)](https://harfely.github.io/)
 <h1 align="center">Hi 👋, I'm Harfel</h1>
 <h3 align="center">A passionate Web Dev. and Data from Maluku</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="" width="400" align="rigth">
@@ -18,6 +18,29 @@
 - 📄 Know about my experiences [####](####)
 
 - ⚡ Fun fact **I think I am Funny**
+
+ -->
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif))](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Harfely Leipary</h1>
+<h3 align="center">A passionate Web Dev. and Data from Maluku</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+
+- 🔭 I’m currently working on **Web Dev. and Data**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **....**
+
+- 📫 How to reach me **leiparyharfely0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
