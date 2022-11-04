@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harfely Leipary</h1>
 <h3 align="center">A passionate Web Dev. and Data from Maluku</h3>
-<img src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx" alt="Coding" width="400" align="rigth" >
+<iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harfely&label=Profile%20views&color=0e75b6&style=flat" alt="harfely" /> </p>
 
