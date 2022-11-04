@@ -9,11 +9,11 @@
 
 ## Education:
 
-#### 1. [Universitas Kristen Indonesia Maluku](https://www.ugm.ac.id) | computer science student | Ambon `2020-Present`
+#### 1. [Universitas Kristen Indonesia Maluku](https://ukim.ac.id/) | computer science student | Ambon `2020-Present`
    - xxxx
    - xxxx
    - xxxx
- #### 2. [SMA N 1 Masohi](https://www.sman1kebumen.sch.id) | MIPA | Masohi `2017-2020`
+ #### 2. [SMA N 1 Masohi](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/9c09dd6b-bd09-4124-a1da-234f447348ed) | MIPA | Masohi `2017-2020`
    - Chief of OSIS
    - Chief of christmas committee
 
