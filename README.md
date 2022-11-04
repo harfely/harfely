@@ -1,65 +1,37 @@
-# Hi there, I'm Harfely - [Harf](https://www.youtube.com/channel/UCIPDlQycm0wkziSvJGBwH-w) 👋
-## About me:
-- 🔭 I’m currently working at [XXXXX]()
-- 🌱 I’m currently learning Python and Web Programing 
-- 👯 I’m looking to collaborate as ....
-- 🤔 I’m looking for suggest for ....
-- 💬 Ask me about anything
-- 📫 How to reach me: leiparyharfely@gmail.com
+<h1 align="center">Hi 👋, I'm Harfely Leipary</h1>
+<h3 align="center">A passionate Web Dev. and Data from Maluku</h3>
+<img src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx" alt="Coding" width="400" align="rigth" >
 
-## Education:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harfely&label=Profile%20views&color=0e75b6&style=flat" alt="harfely" /> </p>
 
-#### 1. [Universitas Kristen Indonesia Maluku](https://ukim.ac.id/) | computer science student | Ambon `2020-Present`
-   - xxxx
-   - xxxx
-   - xxxx
- #### 2. [SMA N 1 Masohi](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/9c09dd6b-bd09-4124-a1da-234f447348ed) | MIPA | Masohi `2017-2020`
-   - Chief of OSIS
-   - Chief of christmas committee
+<p align="left"> <a href="https://twitter.com/hl12" target="blank"><img src="https://img.shields.io/twitter/follow/hl12?logo=twitter&style=for-the-badge" alt="hl12" /></a> </p>
 
-<!-- ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
---- -->
+- 📝 I regularly write articles on [####](####)
 
-### Languages and Tools:
+- 💬 Ask me about **####**
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />]
-<br />
-<br />
+- 📫 How to reach me **leiparyharfely@gmail.com**
 
----
-### Connect with me:
+- 📄 Know about my experiences [####](####)
 
-<!-- [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+- ⚡ Fun fact **I think I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/harfely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harfely" height="30" width="40" /></a>
+<a href="https://twitter.com/hl12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hl12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harfely leipary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harfely leipary" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/harfely leipary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harfely leipary" height="30" width="40" /></a>
+<a href="https://kaggle.com/harfely leipary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harfely leipary" height="30" width="40" /></a>
+<a href="https://fb.com/hatalaibessy leipary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hatalaibessy leipary" height="30" width="40" /></a>
+<a href="https://instagram.com/harfely_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harfely_12" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/harfel12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harfel12" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harfely&show_icons=true&locale=en&layout=compact" alt="harfely" /></p>
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan -->
-
-
-<!---
-harfely/harfely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
