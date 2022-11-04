@@ -14,7 +14,8 @@
    - xxxx
    - xxxx
  #### 2. [SMA N 1 Masohi](https://www.sman1kebumen.sch.id) | MIPA | Masohi `2017-2020`
-   - Chief of Rohkris
+   - Chief of OSIS
+   - Chief of christmas committee
 
 <!-- ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
@@ -42,7 +43,7 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+<!-- [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
@@ -56,7 +57,7 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/vincentwidyan/vincentwidyan -->
 
 
 <!---
