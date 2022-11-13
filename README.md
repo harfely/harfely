@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://www.ookla.com/s/media/2021/12/video-testing-header-2.gif)](https://harfely.github.io/)
 <h1 align="center">Hi 👋, I'm Harfel</h1>
 <h3 align="center">A passionate Web Dev. and Data from Maluku</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="" width="400" align="rigth">
+<img src="https://i.pinimg.com/originals/fd/c9/86/fdc9869b0c1783f0b2238dae08447341.gif" alt="" width="400" align="rigth">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harfely&label=Profile%20views&color=0e75b6&style=flat" alt="harfely" /> </p>
 
