@@ -38,7 +38,6 @@
 
 - 📫 How to reach me **leiparyharfely@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 
 
