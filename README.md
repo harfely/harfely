@@ -2,23 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harfel</h1>
 <h3 align="center">A passionate Web Dev. and Data from Maluku</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harfely&label=Profile%20views&color=0e75b6&style=flat" alt="harfely" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harfely" alt="harfely" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/harfel12" target="blank"><img src="https://img.shields.io/twitter/follow/harfel12?logo=twitter&style=for-the-badge" alt="harfel12" /></a> </p>
-
-- 📝 I regularly write articles on [####](####)
-
-- 💬 Ask me about **####**
-
-- 📫 How to reach me **leiparyharfely@gmail.com**
-
-- 📄 Know about my experiences [####](####)
-
-- ⚡ Fun fact **I think I am Funny**
-
- -->
 [![MasterHead](https://styles.redditmedia.com/t5_2r05e/styles/mobileBannerImage_rsrtw1og6cy81.png)](https://harfely.github.io)
 <h1 align="center">Hi 👋, I'm Harfely Leipary</h1>
 <h3 align="center">A passionate Web Dev. and Data from Maluku</h3>
